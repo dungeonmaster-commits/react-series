@@ -15,7 +15,7 @@ function Cards({userName="nikhil",Obj}){
           <h2 className="text-xl font-semibold tracking-wide">{Obj.courseName}</h2>
         </div>
         <p className="text-gray-300">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio tempora ipsum soluta
+          Lorem ipsum dolor sit amet  adipisicing elit. Distinctio tempora ipsum soluta
           amet
         </p>
       </div>
